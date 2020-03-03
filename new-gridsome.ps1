@@ -5,6 +5,6 @@ git clone https://github.com/VincentPFG/gridsome-starter.git $name
 Set-Location $name
 
 git remote rm origin
-npm update
+yarn upgrade
 code .
 stop-process -id $PID
