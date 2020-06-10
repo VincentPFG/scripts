@@ -1,1 +1,0 @@
-code ~/.config/Code/User/snippets
